@@ -15,7 +15,7 @@ class GcmClient
      */
     private $apiKey;
 
-    protected $gcmUrl = 'https://android.googleapis.com/gcm/send';
+    protected $gcmUrl = 'https://fcm.googleapis.com/fcm/send';
 
     public function __construct($apiKey)
     {
