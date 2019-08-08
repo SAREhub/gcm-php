@@ -1,5 +1,5 @@
 {
-    "name": "coreproc/gcm",
+    "name": "sarehub/gcm",
     "description": "Google Cloud Messaging library for PHP",
     "require": {
         "guzzlehttp/guzzle": "5.*"
